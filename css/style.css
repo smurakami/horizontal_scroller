@@ -1,0 +1,23 @@
+.red {
+  background-color: #e74c3c; }
+
+.blue {
+  background-color: #3498db; }
+
+.yellow {
+  background-color: #f1c40f; }
+
+.green {
+  background-color: #1abc9c; }
+
+.items {
+  width: 100%;
+  overflow: scroll; }
+  .items .scroller {
+    width: 1600px; }
+  .items .item {
+    float: left;
+    width: 100px;
+    height: 100px; }
+
+/*# sourceMappingURL=style.css.map */
