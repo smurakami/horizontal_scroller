@@ -21,4 +21,7 @@
     width: 100px;
     height: 100px; }
 
+.items::-webkit-scrollbar {
+  display: none; }
+
 /*# sourceMappingURL=style.css.map */
